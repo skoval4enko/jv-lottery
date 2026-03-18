@@ -29,11 +29,4 @@ public class Ball {
     public String toString() {
         return "Ball " + color + " color" + " " + "and" + " number " + number;
     }
-
-    public enum Colors {
-        RED,
-        BLUE,
-        YELLOW,
-        GREEN,
-    }
 }
